@@ -1,0 +1,9 @@
+{
+  "name": "Neo High Contrast Pro",
+  "variables": {
+    "bg": "#000000",
+    "surface": "#000000",
+    "text": "#FFFFFF",
+    "accent": "#FFD700"
+  }
+}

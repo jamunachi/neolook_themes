@@ -1,0 +1,9 @@
+{
+  "name": "Neo Graphite",
+  "variables": {
+    "bg": "#111827",
+    "surface": "#1F2937",
+    "text": "#E5E7EB",
+    "accent": "#6B7280"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Neo Night Indigo",
+  "variables": {
+    "bg": "#0B1020",
+    "surface": "#1E1B4B",
+    "text": "#C7D2FE",
+    "accent": "#6366F1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Neo Ocean Blue Desk",
+  "variables": {
+    "bg": "#F1F5F9",
+    "surface": "#0B3C5D",
+    "text": "#0E7490",
+    "accent": "#14B8A6"
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "doctype": "Website Theme",
+    "name": "Neo Classic Light",
+    "custom": 1,
+    "theme_scss": "/* Auto-generated variables for Neo Classic Light */\n:root {\n  --neo-bg: #F1F5F9;\n  --neo-surface: #FFFFFF;\n  --neo-text: #0F172A;\n  --neo-accent: #2563EB;\n}",
+    "ignore_app_css": 1
+  },
+  {
+    "doctype": "Website Theme",
+    "name": "Neo Corporate Blue",
+    "custom": 1,
+    "theme_scss": "/* Auto-generated variables for Neo Corporate Blue */\n:root {\n  --neo-bg: #F8FAFC;\n  --neo-surface: #EAF2FF;\n  --neo-text: #0A3D91;\n  --neo-accent: #00A6FF;\n}",
+    "ignore_app_css": 1
+  },
+  {
+    "doctype": "Website Theme",
+    "name": "Neo Ocean Blue Desk",
+    "custom": 1,
+    "theme_scss": "/* Auto-generated variables for Neo Ocean Blue Desk */\n:root {\n  --neo-bg: #F1F5F9;\n  --neo-surface: #0B3C5D;\n  --neo-text: #0E7490;\n  --neo-accent: #14B8A6;\n}",
+    "ignore_app_css": 1
+  },
+  {
+    "doctype": "Website Theme",
+    "name": "Neo Graphite",
+    "custom": 1,
+    "theme_scss": "/* Auto-generated variables for Neo Graphite */\n:root {\n  --neo-bg: #111827;\n  --neo-surface: #1F2937;\n  --neo-text: #E5E7EB;\n  --neo-accent: #6B7280;\n}",
+    "ignore_app_css": 1
+  },
+  {
+    "doctype": "Website Theme",
+    "name": "Neo Classic Dark",
+    "custom": 1,
+    "theme_scss": "/* Auto-generated variables for Neo Classic Dark */\n:root {\n  --neo-bg: #0B1220;\n  --neo-surface: #111827;\n  --neo-text: #E5E7EB;\n  --neo-accent: #60A5FA;\n}",
+    "ignore_app_css": 1
+  },
+  {
+    "doctype": "Website Theme",
+    "name": "Neo Night Indigo",
+    "custom": 1,
+    "theme_scss": "/* Auto-generated variables for Neo Night Indigo */\n:root {\n  --neo-bg: #0B1020;\n  --neo-surface: #1E1B4B;\n  --neo-text: #C7D2FE;\n  --neo-accent: #6366F1;\n}",
+    "ignore_app_css": 1
+  },
+  {
+    "doctype": "Website Theme",
+    "name": "Neo Desert Sand Light",
+    "custom": 1,
+    "theme_scss": "/* Auto-generated variables for Neo Desert Sand Light */\n:root {\n  --neo-bg: #F3F4F6;\n  --neo-surface: #EDE9DD;\n  --neo-text: #1F2937;\n  --neo-accent: #B45309;\n}",
+    "ignore_app_css": 1
+  },
+  {
+    "doctype": "Website Theme",
+    "name": "Neo High Contrast Pro",
+    "custom": 1,
+    "theme_scss": "/* Auto-generated variables for Neo High Contrast Pro */\n:root {\n  --neo-bg: #000000;\n  --neo-surface: #000000;\n  --neo-text: #FFFFFF;\n  --neo-accent: #FFD700;\n}",
+    "ignore_app_css": 1
+  }
+]

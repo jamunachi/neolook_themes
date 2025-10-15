@@ -1,0 +1,9 @@
+{
+  "name": "Neo Corporate Blue",
+  "variables": {
+    "bg": "#F8FAFC",
+    "surface": "#EAF2FF",
+    "text": "#0A3D91",
+    "accent": "#00A6FF"
+  }
+}

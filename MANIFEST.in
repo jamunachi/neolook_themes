@@ -1,0 +1,5 @@
+graft neolook_themes/public
+graft neolook_themes/website_theme
+graft neolook_themes/fixtures
+include README.md
+include LICENSE

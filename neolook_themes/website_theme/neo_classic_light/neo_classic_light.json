@@ -1,0 +1,9 @@
+{
+  "name": "Neo Classic Light",
+  "variables": {
+    "bg": "#F1F5F9",
+    "surface": "#FFFFFF",
+    "text": "#0F172A",
+    "accent": "#2563EB"
+  }
+}

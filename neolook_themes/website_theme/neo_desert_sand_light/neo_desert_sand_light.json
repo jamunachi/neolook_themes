@@ -1,0 +1,9 @@
+{
+  "name": "Neo Desert Sand Light",
+  "variables": {
+    "bg": "#F3F4F6",
+    "surface": "#EDE9DD",
+    "text": "#1F2937",
+    "accent": "#B45309"
+  }
+}
