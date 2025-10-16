@@ -3,8 +3,8 @@ requires = ["setuptools>=69", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "neolook-themes"
-version = "0.1.1"
+name = "neolook_themes"
+version = "0.1.2"
 description = "Neotec Themes: Website & Desk themes with an enhanced theme switcher for Frappe."
 readme = "README.md"
 requires-python = ">=3.10"
