@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "neolook_themes"
-version = "0.1.5"
+version = "0.1.6"
 description = "Neotec Themes: Website & Desk themes with an enhanced theme switcher for Frappe."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -21,3 +21,4 @@ neolook_themes = [
   "website_theme/**/**/*.json",
   "fixtures/*.json"
 ]
+

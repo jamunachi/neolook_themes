@@ -1,11 +1,11 @@
-# neolook_themes/hooks.py
+﻿# neolook_themes/hooks.py
 app_name = "neolook_themes"
 app_title = "Neotec Themes"
 app_publisher = "Neotec Integrated Solutions Private Limited"
 app_description = "Website & Desk themes with an enhanced theme switcher."
 app_email = "support@example.com"
 app_license = "MIT"
-app_version = "0.1.1"
+app_version = "0.1.6"
 
 # Load our JS on Desk (safe for Frappe Cloud)
 app_include_js = [
@@ -30,3 +30,4 @@ fixtures = [
 
 # Post-migration setup: ensure default Website Theme if not set yet
 after_migrate = ["neolook_themes.setup.after_migrate"]
+
